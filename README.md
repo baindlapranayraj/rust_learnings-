@@ -1,4 +1,4 @@
-# My Rust Learnings
+# My Rust Learnings 🦀
 
 This repository documents my journey of learning Rust, following the [Rust Programming Language Book](https://doc.rust-lang.org/book/). Below is a summary of key concepts and chapters I have covered.
 
